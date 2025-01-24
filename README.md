@@ -1,5 +1,5 @@
 # Banco de Dados de Campeonatos de Esportes Eletrônicos
-Este repositório contém o projeto de banco de dados desenvolvido para o trabalho de faculdade, que aborda o tema de Campeonatos de Esportes Eletrônicos. O objetivo do trabalho foi criar um banco de dados completo e otimizado, contendo as principais informações sobre torneios, equipes, jogadores, partidas, transmissões, rankings e eventos relacionados aos campeonatos de eSports.
+Este repositório contém o projeto de banco de dados desenvolvido para o trabalho acadêmico, que aborda o tema de Campeonatos de Esportes Eletrônicos. O objetivo do trabalho foi criar um banco de dados completo e otimizado, contendo as principais informações sobre torneios, equipes, jogadores, partidas, transmissões, rankings e eventos relacionados aos campeonatos de eSports.
 
 ## Estrutura do Projeto
 O banco de dados foi implementado no MySQL e contém as seguintes partes:

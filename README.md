@@ -36,20 +36,7 @@ O banco de dados inclui as seguintes tabelas principais:
 - **Jogo:** Representa os jogos nos quais os torneios estão baseados, com detalhes sobre o gênero e desenvolvedora.
 - **Partida:** Detalhes das partidas realizadas entre times e jogadores.
 - **Ranking:** Informações sobre a classificação dos jogadores e times nos torneios.
-## Consultas Propostas
-- As 10 consultas propostas no projeto são:
-
-1. Consulta para buscar o ranking geral de jogadores em um torneio específico.
-2. Consulta para listar todas as partidas realizadas em um torneio, incluindo informações sobre vencedores e perdedores.
-3. Consulta para obter detalhes de todas as transmissões de um evento específico, com narradores e comentaristas.
-4. Consulta para calcular a pontuação acumulada dos times em um torneio.
-5. Consulta para encontrar os jogadores que participaram de mais de um torneio no mesmo ano.
-6. Consulta para obter estatísticas sobre os jogos mais populares entre os jogadores.
-7. Consulta para listar os times que venceram mais partidas em um determinado torneio.
-8. Consulta para mostrar a evolução do ranking de um jogador ao longo de vários torneios.
-9. Consulta para identificar as partidas mais disputadas, com maior número de pontos.
-10.Consulta para listar os patrocinadores de um evento, caso aplicável.
-
+  
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou correções, fique à vontade para fazer um fork do repositório e enviar um pull request.
 

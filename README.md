@@ -5,7 +5,7 @@ Este repositório contém o projeto de banco de dados desenvolvido para o trabal
 O banco de dados foi implementado no MySQL e contém as seguintes partes:
 
 ## 1. Modelo Conceitual
-O modelo conceitual foi criado para representar de forma clara as entidades e seus relacionamentos no contexto dos campeonatos de eSports. Ele inclui as tabelas e as relações principais, como Jogadores, Times, Torneios, Partidas, Eventos, Transmissões, Ranking e Jogos.
+O modelo conceitual foi criado para representar de forma clara as entidades e seus relacionamentos no contexto dos campeonatos de eSports. Ele descreve a estrutura do banco de dados, incluindo os principais aspectos e interações entre as diferentes partes envolvidas no ambiente de eSports.
 
 ## 2. Esquema Relacional
 O esquema relacional foi implementado no MySQL, com o uso de tabelas, chaves primárias e estrangeiras, e normalização para garantir a integridade dos dados. O banco de dados contém 15 tabelas, com dados que representam diversos aspectos dos campeonatos de eSports.
@@ -29,7 +29,7 @@ Foram propostas 10 consultas SQL, que vão além do simples SELECT *. As consult
 O banco de dados inclui as seguintes tabelas principais:
 
 - **Time:** Representa os times participantes dos campeonatos.
-- Jogador:** Representa os jogadores, incluindo informações como nome, idade e equipamentos.
+- **Jogador:** Representa os jogadores, incluindo informações como nome, idade e equipamentos.
 - **Torneio:** Detalhes sobre os torneios, como nome, local, premiação e vencedor.
 - **Evento:** Representa eventos de esportes eletrônicos, que podem incluir torneios.
 - **Transmissão:** Informações sobre a transmissão dos eventos, como canal e comentaristas.
